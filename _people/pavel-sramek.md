@@ -1,9 +1,9 @@
 ---
 uid: pavel.sramek
 name:     Pavel Šrámek      		# běžně používáné jméno
-fullname: Pavel Šrámek  		# jméno s tituly etc.
+fullname: Pavel Šrámek  		#     jméno s tituly etc.
 category:plzen                 		# kategorie: rp, praha, vary, hradec, jmk, senat
-img: people/pavel-sramek.jpg           # 165 x 220
+img: https://www.dropbox.com/s/1wzf5q1od6rhf41/Nov%C3%A1%20mal%C3%A1%20profilovka.jpg?dl=0       # 165 x 220
 description: Předseda místního sdružení Plzeň # kratký popis, max 160 znaků
 mail:
 - pavel.sramek@pirati.cz
